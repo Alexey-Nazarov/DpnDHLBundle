@@ -5,7 +5,7 @@
     "require": {
         "php": "^7.0",
         "dreipunktnull/dhl-shipment-tracking": "dev-master",
-        "symfony/symfony": "^3.3",
+        "symfony/symfony": "^3.3|~4",
         "petschko/dhl-php-sdk": "dev-master"
     },
     "license": "MIT",
